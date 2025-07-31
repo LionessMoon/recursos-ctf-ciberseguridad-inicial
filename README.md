@@ -10,6 +10,7 @@ como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaj
 
 
 -----¿QUE VAS A ENCONTRAR AQUÍ?------
+
 --Guia en PDF, para empezar TryHackMe
 --Cheat sheet de comandos esenciales para pentesting
 --Checklist imprimible con salas recomendad por nivel
@@ -17,6 +18,7 @@ como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaj
 
 
 -----¿PARA QUE TE PUEDE SER UTIL?-----
+
 --Estudiar con foco
 --Evitar perder tiempo buscando por todos lados
 --Practicar con una hoja de ruta clara
