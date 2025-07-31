@@ -12,6 +12,7 @@ principiantes y personas que se preparan para certificaciones como eJPT, CompTIA
 2. Elige modo de conexión:
   AttackBox (web) o VPN (con Kali)
 3. Comienza por estas salas:
+--
     |  Sala  |  Nivel  |  Enlace  |
   |---------|--------|---------------|
   |  Introduction to Cyber Security  |  Muy Facil  |  [Ir](https://tryhackme.com/room.introoffensivesecurity)  |
