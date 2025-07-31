@@ -1,0 +1,21 @@
+------------------- CHECKLIST DE SALAS RECOMENDADAS ----------- TryHackMe
+
+✅ = Completada  |  ❌ = Pendiente
+
+[❌] Introduction to Cyber Security
+[❌] Pre Security
+[❌] Introduction to Offensive Security
+[❌] Linux Fundamentals 1
+[❌] Linux Fundamentals 2
+[❌] Linux Fundamentals 3
+[❌] Network Fundamentals
+[❌] Blue
+[❌] Vulnversity
+[❌] Ice
+[❌] Basic Pentesting
+[❌] Brute It
+[❌] Pickle Rick
+[❌] Mr Robot
+[❌] Daily Bugle
+
+Tip: Puedes abrir este archivo y marcar con ✅ a medida que avances.
