@@ -11,13 +11,13 @@ Plataforma online para practicar hacking ético con laboratorios reales. Ideal p
 2. Elige modo de conexión:
   AttackBox (web) o VPN (con Kali)
 3. Comienza por estas salas:
---
+```
     |  Sala  |  Nivel  |  Enlace  |
   |---------|--------|---------------|
   |  Introduction to Cyber Security  |  Muy Facil  |  [Ir](https://tryhackme.com/room.introoffensivesecurity)  |
   |  Pre Security  |  Básico  |  [Ir](https://tryhackme.com/room/introtonetworking)  |
   |  Linux Fundamentals  |  Fácil  |  [Ir](https://tryhackme.com/module/linux-fundamentals)  |
- 
+ ````
  
 
 -- Salas recomendadas por nivel
