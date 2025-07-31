@@ -15,8 +15,8 @@ principiantes y personas que se preparan para certificaciones como eJPT, CompTIA
   | Sala  |  Nivel  |  Enlace  |
   |-------|---------|----------|
   |  Introduction to Cyber Security  |   Muy fácil  |  [Ir](https://tryhackme.com/room.introtooffensivesecurity)  |
-  |  Pre Security  |  Básico  |  [Ir](https://tryhackme.com/room/introtonetworking)  |
-  |  Linux Fundamentals 1-3  |  Fácil  |  [Ir](https://tryhackme.com/module/linux-fundamentals)  |
+  |  Pre Security                    |  Básico      |  [Ir](https://tryhackme.com/room/introtonetworking)  |
+  |  Linux Fundamentals 1-3          |  Fácil       |  [Ir](https://tryhackme.com/module/linux-fundamentals)  |
 
 
 -- Salas recomendadas por nivel
