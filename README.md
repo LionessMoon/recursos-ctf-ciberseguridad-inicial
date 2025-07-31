@@ -31,4 +31,6 @@ como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaj
 | recursos.md                       |    Enlaces, referencias y recursos útiles                 |
 -------------------------------------------------------------------------------------------------
 
+** Gracias por pasarte por aquí. ¡Y bienvenid@ al mundo de la ciberseguridad!**
+
 
