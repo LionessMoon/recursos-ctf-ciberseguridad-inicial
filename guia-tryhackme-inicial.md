@@ -1,8 +1,7 @@
 --------- GUÍA TRYHACKME INICIAL ------------
 
 -- ¿Que es TryHackMe?
-Plataforma online para practicar hacking ético con laboratorios reales. Ideal para
-principiantes y personas que se preparan para certificaciones como eJPT, CompTIA, etc.
+Plataforma online para practicar hacking ético con laboratorios reales. Ideal para principiantes y personas que se preparan para certificaciones como eJPT, CompTIA, etc.
 
 
 
