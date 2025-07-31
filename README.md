@@ -23,13 +23,13 @@ como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaj
 
 
 -----Archivos Disponibles-----------
-|  Archivo                           |    Descripción                                           |
--------------------------------------------------------------------------------------------------
+|  Archivo                                                 |    Descripción                                            |
+|----------------------------------------------------------|-----------------------------------------------------------|
 | [Guia_TryHackMe_Inicial.pdf](guia-tryhackme-inicial.md)  |   Pasos para empezar, consejos y estrucuturas de estudio  |
-| [cheat_sheet_pentesting_basico.pdf](cheat-sheet.md) |   Comando claves con ejemplos reales  |
-| [lab-checklist.txt](lab-checlist.txt)  |   Lista para marcar tu avance en salas recomendadas  |
-| [recursos.md](recursos.md)  |   Enlaces, referencias y recursos útiles  |
--------------------------------------------------------------------------------------------------
+| [cheat_sheet_pentesting_basico.pdf](cheat-sheet.md)      |   Comando claves con ejemplos reales                      |
+| [lab-checklist.txt](lab-checlist.txt)                    |   Lista para marcar tu avance en salas recomendadas       |
+| [recursos.md](recursos.md)                               |   Enlaces, referencias y recursos útiles                  |
+|----------------------------------------------------------|-----------------------------------------------------------|
 
 ** Gracias por pasarte por aquí. ¡Y bienvenid@ al mundo de la ciberseguridad!**
 
