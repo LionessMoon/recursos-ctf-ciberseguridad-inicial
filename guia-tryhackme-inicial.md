@@ -32,21 +32,24 @@ principiantes y personas que se preparan para certificaciones como eJPT, CompTIA
 
 -- Herramientas y comandos básicos
 - NMAP:
-  Bash
+  ```bash
   nmap -sC -sV -oN scan.txt <IP>
+  ````
 
 - GOBUSTER:
-  Bash
+  ```bash
   gobuster dir -u http://<IP> -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-
+  ````
+  
 - HYDRA:
-  Bash
+  ```bash
   hydra -l admin -P rockyou.txt ftp://<IP>
+  ````
 
 -NETCAT:
- Bash
+ ```bash
  nc <IP> <puerto>
-
+ ````
 
 
  -- Consejos personales
