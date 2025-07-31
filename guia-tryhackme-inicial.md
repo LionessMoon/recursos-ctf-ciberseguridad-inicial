@@ -15,7 +15,7 @@ Plataforma online para practicar hacking ético con laboratorios reales. Ideal p
   |  Sala                            |  Nivel      |  Enlace                                                                   |
   |----------------------------------|-------------|---------------------------------------------------------------------------|
   |  Introduction to Cyber Security  |  Muy Facil  |  [Ir](https://tryhackme.com/module/introduction-to-cyber-security)        |
-  |  Pre Security                    |  Básico     |  [Ir](https://tryhackme.com/room/introtonetworking)                       |
+  |  Pre Security                    |  Básico     |  [Ir](https://tryhackme.com/path/outline/presecurity)                     |
   |  Linux Fundamentals              |  Fácil      |  [Ir](https://tryhackme.com/module/linux-fundamentals)                    |
  
  
