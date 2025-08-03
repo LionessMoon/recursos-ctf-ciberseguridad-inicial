@@ -9,8 +9,8 @@ Este contenido está basado en mi experiencia como estudiante de ciberseguridad,
 como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaje del inglés tecnico.
 
 
-|-----¿QUE VAS A ENCONTRAR AQUÍ?-----------------------|
-
+|               ¿QUE VAS A ENCONTRAR AQUÍ?             |
+|------------------------------------------------------|
 |*Guia en PDF, para empezar TryHackMe.                 |
 |*Cheat sheet de comandos esenciales para pentesting.  |
 |*Checklist imprimible con salas recomendad por nivel. |
