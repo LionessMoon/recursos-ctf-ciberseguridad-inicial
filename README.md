@@ -17,8 +17,8 @@ como el eJPTv2, CompTIA y otras, mientras combino mis estudios con el aprendizaj
 |*Recursos adicionales.                                |
 
 
------¿PARA QUE TE PUEDE SER UTIL?--------------------
-
+|             ¿PARA QUE TE PUEDE SER UTIL?            |
+|-----------------------------------------------------|
 |*Estudiar con foco.                                  |
 |*Evitar perder tiempo buscando por todos lados.      |
 |*Practicar con una hoja de ruta clara.               |
